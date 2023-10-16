@@ -1,5 +1,5 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
@@ -7,7 +7,7 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Selenium_One</name>
+  <name>Selenium_Junit_Maven_Homework</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -31,5 +31,47 @@
       <artifactId>webdrivermanager</artifactId>
       <version>5.5.0</version>
     </dependency>
+    <dependency>
+      <groupId>com.github.bigwheel</groupId>
+      <artifactId>scalatest-structured-before_2.12</artifactId>
+      <version>1.0.1</version>
+    </dependency>
+    <dependency>
+      <groupId>com.github.bigwheel</groupId>
+      <artifactId>scalatest-structured-before_2.12</artifactId>
+      <version>1.0.1</version>
+    </dependency>
+    <dependency>
+      <groupId>com.github.bigwheel</groupId>
+      <artifactId>scalatest-structured-before_2.12</artifactId>
+      <version>1.0.1</version>
+    </dependency>
+    <dependency>
+      <groupId>com.github.bigwheel</groupId>
+      <artifactId>scalatest-structured-before_2.12</artifactId>
+      <version>1.0.1</version>
+    </dependency>
+    <dependency>
+      <groupId>com.github.bigwheel</groupId>
+      <artifactId>scalatest-structured-before_2.12</artifactId>
+      <version>1.0.1</version>
+    </dependency>
+    <dependency>
+      <groupId>com.github.bigwheel</groupId>
+      <artifactId>scalatest-structured-before_2.12</artifactId>
+      <version>1.0.1</version>
+    </dependency>
+    <dependency>
+      <groupId>com.github.bigwheel</groupId>
+      <artifactId>scalatest-structured-before_2.12</artifactId>
+      <version>1.0.1</version>
+    </dependency>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>RELEASE</version>
+      <scope>test</scope>
+    </dependency>
   </dependencies>
 </project>
+
